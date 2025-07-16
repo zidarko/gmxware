@@ -13,8 +13,7 @@ The general protocol used for MD runs was:
    - NVT simulation to gradually bring the solvent to room temperature
    - NPT simulation to let the system equilibrate
 
-The above cycle can be conveniently executed by modifying and executing `./scripts/do-prep-any.sh`. 
-
+    The above cycle can be conveniently executed by modifying and executing `./scripts/do-prep-any.sh`. 
 
 1. Production run.
 
